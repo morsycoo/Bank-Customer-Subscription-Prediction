@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🏦 Bank Customer Subscription Prediction using Neural Networks
 <p align="center">
   <img
