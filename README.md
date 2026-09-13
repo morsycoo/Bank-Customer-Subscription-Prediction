@@ -1,5 +1,11 @@
 # 🏦 Bank Customer Subscription Prediction using Neural Networks
-
+<p align="center">
+  <img
+    src="assets/Bank Customer Subscription Prediction.png"
+    alt="Bank Customer Subscription Prediction"
+    width="100%"
+  />
+</p>
 
 ## 📌 Project Overview
 
