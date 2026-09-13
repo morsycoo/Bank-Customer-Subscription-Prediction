@@ -7,7 +7,7 @@
     alt="Bank Customer Subscription Prediction"
     width="100%"
   />
-</p>
+</div>
 
 ## 📌 Project Overview
 
